@@ -1,0 +1,16 @@
+{
+  "name": "autoscroller",
+  "version": "0.1.0",
+  "description": "An auto-scrolling HTML element, for chat-style scrolling. ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unternet-co/autoscroller.git"
+  },
+  "author": "Rupert Manfredi <rupert@unternet.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unternet-co/autoscroller/issues"
+  },
+  "homepage": "https://github.com/unternet-co/autoscroller#readme"
+}
